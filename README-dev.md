@@ -4,6 +4,7 @@ This branch contains experimental features and editorial scaffolding for the Iry
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 92590b1 (Updated README-dev.md)
 ### 🧾 Summary 
@@ -88,6 +89,8 @@ Before submitting a pull request to `main`, please follow the steps in [`TESTING
 
 <<<<<<< HEAD
 =======
+=======
+>>>>>>> 484767e (updated readme and readme-dev)
 ## In Progress
 - Procedural filter toggle
 - Tag structure for grouped events
@@ -96,9 +99,12 @@ Before submitting a pull request to `main`, please follow the steps in [`TESTING
 ## Editorial Notes
 - All content is handled with restraint and respect
 - No public sourcing until verified and approved
+<<<<<<< HEAD
 >>>>>>> 484767e (updated readme and readme-dev)
 =======
 
 >>>>>>> 92590b1 (Updated README-dev.md)
 =======
 >>>>>>> f5412c5 (Add PR template and contributor workflow reference)
+=======
+>>>>>>> 484767e (updated readme and readme-dev)
