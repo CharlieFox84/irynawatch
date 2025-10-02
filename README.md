@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Iryna Watch – Main Branch
 
 This branch serves as the **Netlify deployment source** for the Iryna Watch timeline.
@@ -23,3 +24,8 @@ For the most up-to-date workflow and editorial notes, see see `README-dev.md` in
 =======
 # irynawatch
 >>>>>>> 510514d (Initial commit)
+=======
+#Irynawatch
+
+> For development notes and experimental features, see [README-dev.md](README-dev.md)
+>>>>>>> 484767e (updated readme and readme-dev)
