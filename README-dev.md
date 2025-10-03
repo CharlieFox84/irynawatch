@@ -5,6 +5,9 @@ This branch contains experimental features and editorial scaffolding for the Iry
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 92590b1 (Updated README-dev.md)
 =======
 >>>>>>> 92590b1 (Updated README-dev.md)
 ### 🧾 Summary 
@@ -17,6 +20,7 @@ This branch contains experimental features and editorial scaffolding for the Iry
 
 ---
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -39,6 +43,8 @@ This branch contains experimental features and editorial scaffolding for the Iry
 >>>>>>> 92590b1 (Updated README-dev.md)
 =======
 >>>>>>> 4a2696d (added lastest updates to README-dev)
+=======
+>>>>>>> 92590b1 (Updated README-dev.md)
 ## 🧠 Editorial Logic
 
 This timeline prioritizes clarity, dignity, and restraint. Filings are tagged to reflect both legal classification and narrative significance:
@@ -50,6 +56,7 @@ The toggle interface allows users to reveal procedural depth without overwhelmin
 
 ---
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -108,3 +115,6 @@ Before submitting a pull request to `main`, please follow the steps in [`TESTING
 >>>>>>> f5412c5 (Add PR template and contributor workflow reference)
 =======
 >>>>>>> 484767e (updated readme and readme-dev)
+=======
+
+>>>>>>> 92590b1 (Updated README-dev.md)
