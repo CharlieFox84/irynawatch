@@ -15,6 +15,7 @@ Before submitting a pull request from `dev` to `main`, verify the following:
 
 - [ ] Medical evaluations and key filings remain visible under `motion`
 - [ ] Glossary entries (if present) reflect editorial restraint and clarity
+<<<<<<< HEAD
 - [ ] README files clearly describe branch roles and deploy logic
 
 ---
@@ -40,3 +41,7 @@ Before submitting a pull request from `dev` to `main`, verify the following:
    - Public-facing site updates automatically, preserving editorial restraint and technical polish.
 
 ---
+=======
+- [ ] “Last updated” reflects actual deploy date or fallback logic
+- [ ] README files clearly describe branch roles and deploy logic
+>>>>>>> e46c594 (Add TESTING.md for pre-PR checklist; link from README-dev.md)
