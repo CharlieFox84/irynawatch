@@ -3,6 +3,9 @@
 This branch contains experimental features and editorial scaffolding for the Iryna timeline project. All changes here are staged for review before public release.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 92590b1 (Updated README-dev.md)
 ### 🧾 Summary 
 
 - Reclassified routine filings as `procedural-motion` to streamline default view  
@@ -13,6 +16,7 @@ This branch contains experimental features and editorial scaffolding for the Iry
 
 ---
 
+<<<<<<< HEAD
 ### 🛠️ October 2025 Updates (Testing → Dev Merge)
 
 - Added scroll emoji 📜 to NC House Bill 307 timeline card title for symbolic clarity  
@@ -26,6 +30,8 @@ This branch contains experimental features and editorial scaffolding for the Iry
 ---
 
 
+=======
+>>>>>>> 92590b1 (Updated README-dev.md)
 ## 🧠 Editorial Logic
 
 This timeline prioritizes clarity, dignity, and restraint. Filings are tagged to reflect both legal classification and narrative significance:
@@ -37,6 +43,7 @@ The toggle interface allows users to reveal procedural depth without overwhelmin
 
 ---
 
+<<<<<<< HEAD
 ## 🧠 Contribution Workflow
 
 We use a principled pull request process to preserve editorial restraint and technical clarity.
@@ -65,3 +72,6 @@ Before submitting a pull request to `main`, please follow the steps in [`TESTING
 - All content is handled with restraint and respect
 - No public sourcing until verified and approved
 >>>>>>> 484767e (updated readme and readme-dev)
+=======
+
+>>>>>>> 92590b1 (Updated README-dev.md)
