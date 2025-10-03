@@ -285,9 +285,7 @@
       <p class="header-desc">
         All entries are drawn from publicly available court records and verified news sources. This timeline is presented with editorial restraint and deep respect for the victim's family.
       </p>
-      <p class="last-updated">
-        Last updated: <span id="last-updated">Oct 2, 2025</span>
-      </p>
+      <p class="last-updated">Last updated: Oct 2, 2025</p>
     </header>
 
     <nav class="timeline-nav">
@@ -482,15 +480,5 @@
         });
       });
     </script>
-
-    <script>
-      const fallback = document.getElementById('last-updated').textContent.trim();
-      const today = new Date().toLocaleDateString(undefined, { year: 'numeric', month: 'short', day: 'numeric' });
-
-      if (!fallback.includes(today)) {
-        document.getElementById('last-updated').textContent = today;
-      }
-    </script>
-
   </body>
 </html>
