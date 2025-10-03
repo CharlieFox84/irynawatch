@@ -168,6 +168,7 @@ background: #f0f0f0;
 }
 
 .timeline-hot-topic {
+<<<<<<< HEAD
   background: #fff8e1;
   border-bottom: 1px solid #ddd;
   padding: 0.75rem 1rem;
@@ -185,6 +186,21 @@ background: #f0f0f0;
 
 .hot-topic-link:hover {
   text-decoration: underline;
+=======
+background: #fff8e1;
+border-bottom: 1px solid #ddd;
+padding: 0.75rem 1rem;
+text-align: center;
+font-weight: bold;
+}
+
+.hot-topic-link {
+color: #c62828;
+text-decoration: none;
+}
+.hot-topic-link:hover {
+text-decoration: underline;
+>>>>>>> b17a321 (Sperated CSS into its own file)
 }
 
 .last-updated {
