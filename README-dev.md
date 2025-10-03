@@ -60,9 +60,15 @@ The toggle interface allows users to reveal procedural depth without overwhelmin
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## 🧠 Contribution Workflow
 =======
 ## 🧪 Testing Before PR
+=======
+## 🧪 Testing Before PR
+
+Before submitting a pull request to `main`, please follow the steps in [`TESTING.md`](./TESTING.md).
+>>>>>>> e46c594 (Add TESTING.md for pre-PR checklist; link from README-dev.md)
 
 Before submitting a pull request to `main`, please follow the steps in [`TESTING.md`](./TESTING.md).
 >>>>>>> e46c594 (Add TESTING.md for pre-PR checklist; link from README-dev.md)
