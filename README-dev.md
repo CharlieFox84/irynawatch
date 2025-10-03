@@ -23,4 +23,7 @@ The toggle interface allows users to reveal procedural depth without overwhelmin
 
 ---
 
+## 🧪 Testing Before PR
+
+Before submitting a pull request to `main`, please follow the steps in [`TESTING.md`](./TESTING.md).
 
