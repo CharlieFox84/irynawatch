@@ -170,6 +170,7 @@ background: #f0f0f0;
 .timeline-hot-topic {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 6d17598 (Highlight NC House Bill 307 signing with scroll emoji and CSS banner)
   background: #fff8e1;
@@ -191,11 +192,14 @@ background: #f0f0f0;
 .hot-topic-link:hover {
   text-decoration: underline;
 =======
+=======
+>>>>>>> b17a321 (Sperated CSS into its own file)
 background: #fff8e1;
 border-bottom: 1px solid #ddd;
 padding: 0.75rem 1rem;
 text-align: center;
 font-weight: bold;
+<<<<<<< HEAD
 =======
 >>>>>>> 6d17598 (Highlight NC House Bill 307 signing with scroll emoji and CSS banner)
 }
@@ -212,6 +216,16 @@ text-decoration: underline;
 =======
   text-decoration: underline;
 >>>>>>> 6d17598 (Highlight NC House Bill 307 signing with scroll emoji and CSS banner)
+=======
+}
+
+.hot-topic-link {
+color: #c62828;
+text-decoration: none;
+}
+.hot-topic-link:hover {
+text-decoration: underline;
+>>>>>>> b17a321 (Sperated CSS into its own file)
 }
 
 .last-updated {
