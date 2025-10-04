@@ -171,6 +171,9 @@ background: #f0f0f0;
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 6d17598 (Highlight NC House Bill 307 signing with scroll emoji and CSS banner)
 =======
 >>>>>>> 6d17598 (Highlight NC House Bill 307 signing with scroll emoji and CSS banner)
   background: #fff8e1;
@@ -181,6 +184,7 @@ background: #f0f0f0;
   font-size: 1rem;
   border-left: 4px solid #546e7a; /* slate gray */
   margin-bottom: 1em;
+<<<<<<< HEAD
 <<<<<<< HEAD
 }
 
@@ -217,15 +221,22 @@ text-decoration: underline;
   text-decoration: underline;
 >>>>>>> 6d17598 (Highlight NC House Bill 307 signing with scroll emoji and CSS banner)
 =======
+=======
+>>>>>>> 6d17598 (Highlight NC House Bill 307 signing with scroll emoji and CSS banner)
 }
 
 .hot-topic-link {
-color: #c62828;
-text-decoration: none;
+  color: #546e7a; /* matches border */
+  text-decoration: none;
 }
+
 .hot-topic-link:hover {
+<<<<<<< HEAD
 text-decoration: underline;
 >>>>>>> b17a321 (Sperated CSS into its own file)
+=======
+  text-decoration: underline;
+>>>>>>> 6d17598 (Highlight NC House Bill 307 signing with scroll emoji and CSS banner)
 }
 
 .last-updated {
