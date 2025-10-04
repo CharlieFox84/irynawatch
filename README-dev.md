@@ -23,6 +23,9 @@ This branch contains experimental features and editorial scaffolding for the Iry
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4a2696d (added lastest updates to README-dev)
 =======
 >>>>>>> 4a2696d (added lastest updates to README-dev)
 ### 🛠️ October 2025 Updates (Testing → Dev Merge)
@@ -39,12 +42,15 @@ This branch contains experimental features and editorial scaffolding for the Iry
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 92590b1 (Updated README-dev.md)
 =======
 >>>>>>> 4a2696d (added lastest updates to README-dev)
 =======
 >>>>>>> 92590b1 (Updated README-dev.md)
+=======
+>>>>>>> 4a2696d (added lastest updates to README-dev)
 ## 🧠 Editorial Logic
 
 This timeline prioritizes clarity, dignity, and restraint. Filings are tagged to reflect both legal classification and narrative significance:
