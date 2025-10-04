@@ -17,6 +17,9 @@ This branch contains experimental features and editorial scaffolding for the Iry
 ---
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4a2696d (added lastest updates to README-dev)
 ### 🛠️ October 2025 Updates (Testing → Dev Merge)
 
 - Added scroll emoji 📜 to NC House Bill 307 timeline card title for symbolic clarity  
@@ -30,8 +33,11 @@ This branch contains experimental features and editorial scaffolding for the Iry
 ---
 
 
+<<<<<<< HEAD
 =======
 >>>>>>> 92590b1 (Updated README-dev.md)
+=======
+>>>>>>> 4a2696d (added lastest updates to README-dev)
 ## 🧠 Editorial Logic
 
 This timeline prioritizes clarity, dignity, and restraint. Filings are tagged to reflect both legal classification and narrative significance:
