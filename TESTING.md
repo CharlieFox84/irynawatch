@@ -15,5 +15,4 @@ Before submitting a pull request from `dev` to `main`, verify the following:
 
 - [ ] Medical evaluations and key filings remain visible under `motion`
 - [ ] Glossary entries (if present) reflect editorial restraint and clarity
-- [ ] “Last updated” reflects actual deploy date or fallback logic
 - [ ] README files clearly describe branch roles and deploy logic
