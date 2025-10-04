@@ -12,6 +12,19 @@ This branch contains experimental features and editorial scaffolding for the Iry
 
 ---
 
+### 🛠️ October 2025 Updates (Testing → Dev Merge)
+
+- Added scroll emoji 📜 to NC House Bill 307 timeline card title for symbolic clarity  
+- Appended signing date to card footer: “Signed into law on October 3, 2025”  
+- Introduced `.timeline-hot-topic` CSS banner with slate gray accent for dignified emphasis  
+- Linked banner to timeline card via anchor for improved accessibility  
+- Updated medical records motion card to include October 3 defense objection  
+- Extended card date range to reflect full procedural arc  
+- Merged `testing` branch into `dev` with no conflicts
+
+---
+
+
 ## 🧠 Editorial Logic
 
 This timeline prioritizes clarity, dignity, and restraint. Filings are tagged to reflect both legal classification and narrative significance:
