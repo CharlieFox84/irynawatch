@@ -18,6 +18,7 @@ Before submitting a pull request from `dev` to `main`, verify the following:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - [ ] README files clearly describe branch roles and deploy logic
 
 ---
@@ -63,5 +64,7 @@ Before submitting a pull request from `dev` to `main`, verify the following:
 >>>>>>> 83a7652 (updated TESTING steps with CICD pipeline steps)
 =======
 - [ ] “Last updated” reflects actual deploy date or fallback logic
+=======
+>>>>>>> 15f7caa (Removed testing step for date fallback logic. The code was removed.)
 - [ ] README files clearly describe branch roles and deploy logic
 >>>>>>> e46c594 (Add TESTING.md for pre-PR checklist; link from README-dev.md)
