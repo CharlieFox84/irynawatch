@@ -15,13 +15,17 @@ This branch serves as the **Netlify deployment source** for the Iryna Watch time
 
 ## 🔄 Change Log
 
+<<<<<<< HEAD
 For update history and editorial logic, see README-dev.md in the dev branch.
 
 <<<<<<< HEAD
+=======
+>>>>>>> f5412c5 (Add PR template and contributor workflow reference)
 ## 🧠 Contributor Workflow
 
 For the most up-to-date workflow and editorial notes, see see `README-dev.md` in the `dev` branch.
 
+<<<<<<< HEAD
 ---
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/752b7db1-9935-4a3d-9879-c6556224fe8d/deploy-status)](https://app.netlify.com/projects/irynawatch/deploys)
@@ -77,3 +81,6 @@ For the most up-to-date workflow and editorial notes, see see `README-dev.md` in
 =======
 For update history and editorial logic, see `README-dev.md` in the `dev` branch.
 >>>>>>> 1087545 (updated README with branch details)
+=======
+
+>>>>>>> f5412c5 (Add PR template and contributor workflow reference)

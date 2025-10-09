@@ -67,6 +67,7 @@ The toggle interface allows users to reveal procedural depth without overwhelmin
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## 🧠 Contribution Workflow
 =======
 ## 🧪 Testing Before PR
@@ -78,6 +79,9 @@ Before submitting a pull request to `main`, please follow the steps in [`TESTING
 
 Before submitting a pull request to `main`, please follow the steps in [`TESTING.md`](./TESTING.md).
 >>>>>>> e46c594 (Add TESTING.md for pre-PR checklist; link from README-dev.md)
+=======
+## 🧠 Contribution Workflow
+>>>>>>> f5412c5 (Add PR template and contributor workflow reference)
 =======
 ## 🧠 Contribution Workflow
 >>>>>>> f5412c5 (Add PR template and contributor workflow reference)
@@ -90,6 +94,7 @@ We use a principled pull request process to preserve editorial restraint and tec
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 📄 See our [Pull Request Template](./PULL_REQUEST_TEMPLATE.md)
 =======
 📄 See our [Pull Request Template](.github/PULL_REQUEST_TEMPLATE.md)
@@ -97,6 +102,9 @@ We use a principled pull request process to preserve editorial restraint and tec
 =======
 📄 See our [Pull Request Template](./PULL_REQUEST_TEMPLATE.md)
 >>>>>>> 680bdc1 (Update README-dev.md)
+=======
+📄 See our [Pull Request Template](.github/PULL_REQUEST_TEMPLATE.md)
+>>>>>>> f5412c5 (Add PR template and contributor workflow reference)
 
 ---
 
@@ -106,6 +114,7 @@ Before submitting a pull request to `main`, please follow the steps in [`TESTING
 
 
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 =======
@@ -130,3 +139,5 @@ Before submitting a pull request to `main`, please follow the steps in [`TESTING
 =======
 
 >>>>>>> 92590b1 (Updated README-dev.md)
+=======
+>>>>>>> f5412c5 (Add PR template and contributor workflow reference)
