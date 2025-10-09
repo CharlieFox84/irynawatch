@@ -95,6 +95,7 @@ We use a principled pull request process to preserve editorial restraint and tec
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 📄 See our [Pull Request Template](./PULL_REQUEST_TEMPLATE.md)
 =======
 📄 See our [Pull Request Template](.github/PULL_REQUEST_TEMPLATE.md)
@@ -105,6 +106,9 @@ We use a principled pull request process to preserve editorial restraint and tec
 =======
 📄 See our [Pull Request Template](.github/PULL_REQUEST_TEMPLATE.md)
 >>>>>>> f5412c5 (Add PR template and contributor workflow reference)
+=======
+📄 See our [Pull Request Template](./PULL_REQUEST_TEMPLATE.md)
+>>>>>>> 680bdc1 (Update README-dev.md)
 
 ---
 
