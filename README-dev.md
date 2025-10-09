@@ -44,7 +44,7 @@ We use a principled pull request process to preserve editorial restraint and tec
 - Once ready, a [pull request](https://github.com/CharlieFox84/irynawatch/compare/main...dev) is opened from `dev` to `main`.
 - Merging triggers Netlify auto-deploy to [irynawatch.netlify.app](https://irynawatch.netlify.app/).
 
-📄 See our [Pull Request Template](.github/PULL_REQUEST_TEMPLATE.md)
+📄 See our [Pull Request Template](./PULL_REQUEST_TEMPLATE.md)
 
 ---
 
