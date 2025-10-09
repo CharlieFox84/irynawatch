@@ -15,4 +15,7 @@ For update history and editorial logic, see README-dev.md in the dev branch.
 
 For the most up-to-date workflow and editorial notes, see see `README-dev.md` in the `dev` branch.
 
+---
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/752b7db1-9935-4a3d-9879-c6556224fe8d/deploy-status)](https://app.netlify.com/projects/irynawatch/deploys)
 
