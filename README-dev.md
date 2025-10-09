@@ -2,15 +2,7 @@
 
 This branch contains experimental features and editorial scaffolding for the Iryna timeline project. All changes here are staged for review before public release.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 92590b1 (Updated README-dev.md)
-=======
->>>>>>> 92590b1 (Updated README-dev.md)
-### 🧾 Summary 
+### 🧾 Summary
 
 - Reclassified routine filings as `procedural-motion` to streamline default view  
 - Preserved visibility of high-impact motions like medical evaluation  
@@ -20,14 +12,6 @@ This branch contains experimental features and editorial scaffolding for the Iry
 
 ---
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 4a2696d (added lastest updates to README-dev)
-=======
->>>>>>> 4a2696d (added lastest updates to README-dev)
 ### 🛠️ October 2025 Updates (Testing → Dev Merge)
 
 - Added scroll emoji 📜 to NC House Bill 307 timeline card title for symbolic clarity  
@@ -40,17 +24,6 @@ This branch contains experimental features and editorial scaffolding for the Iry
 
 ---
 
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 92590b1 (Updated README-dev.md)
-=======
->>>>>>> 4a2696d (added lastest updates to README-dev)
-=======
->>>>>>> 92590b1 (Updated README-dev.md)
-=======
->>>>>>> 4a2696d (added lastest updates to README-dev)
 ## 🧠 Editorial Logic
 
 This timeline prioritizes clarity, dignity, and restraint. Filings are tagged to reflect both legal classification and narrative significance:
@@ -62,29 +35,7 @@ The toggle interface allows users to reveal procedural depth without overwhelmin
 
 ---
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 ## 🧠 Contribution Workflow
-=======
-## 🧪 Testing Before PR
-=======
-## 🧪 Testing Before PR
-
-Before submitting a pull request to `main`, please follow the steps in [`TESTING.md`](./TESTING.md).
->>>>>>> e46c594 (Add TESTING.md for pre-PR checklist; link from README-dev.md)
-
-Before submitting a pull request to `main`, please follow the steps in [`TESTING.md`](./TESTING.md).
->>>>>>> e46c594 (Add TESTING.md for pre-PR checklist; link from README-dev.md)
-=======
-## 🧠 Contribution Workflow
->>>>>>> f5412c5 (Add PR template and contributor workflow reference)
-=======
-## 🧠 Contribution Workflow
->>>>>>> f5412c5 (Add PR template and contributor workflow reference)
 
 We use a principled pull request process to preserve editorial restraint and technical clarity.
 
@@ -92,23 +43,7 @@ We use a principled pull request process to preserve editorial restraint and tec
 - Once ready, a [pull request](https://github.com/CharlieFox84/irynawatch/compare/main...dev) is opened from `dev` to `main`.
 - Merging triggers Netlify auto-deploy to [irynawatch.netlify.app](https://irynawatch.netlify.app/).
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 📄 See our [Pull Request Template](./PULL_REQUEST_TEMPLATE.md)
-=======
-📄 See our [Pull Request Template](.github/PULL_REQUEST_TEMPLATE.md)
->>>>>>> f5412c5 (Add PR template and contributor workflow reference)
-=======
-📄 See our [Pull Request Template](./PULL_REQUEST_TEMPLATE.md)
->>>>>>> 680bdc1 (Update README-dev.md)
-=======
-📄 See our [Pull Request Template](.github/PULL_REQUEST_TEMPLATE.md)
->>>>>>> f5412c5 (Add PR template and contributor workflow reference)
-=======
-📄 See our [Pull Request Template](./PULL_REQUEST_TEMPLATE.md)
->>>>>>> 680bdc1 (Update README-dev.md)
 
 ---
 
@@ -116,32 +51,15 @@ We use a principled pull request process to preserve editorial restraint and tec
 
 Before submitting a pull request to `main`, please follow the steps in [`TESTING.md`](./TESTING.md).
 
+---
 
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 484767e (updated readme and readme-dev)
 ## In Progress
-- Procedural filter toggle
-- Tag structure for grouped events
+
+- Procedural filter toggle  
+- Tag structure for grouped events  
 - Glossary module (draft)
 
 ## Editorial Notes
-- All content is handled with restraint and respect
+
+- All content is handled with restraint and respect  
 - No public sourcing until verified and approved
-<<<<<<< HEAD
->>>>>>> 484767e (updated readme and readme-dev)
-=======
-
->>>>>>> 92590b1 (Updated README-dev.md)
-=======
->>>>>>> f5412c5 (Add PR template and contributor workflow reference)
-=======
->>>>>>> 484767e (updated readme and readme-dev)
-=======
-
->>>>>>> 92590b1 (Updated README-dev.md)
-=======
->>>>>>> f5412c5 (Add PR template and contributor workflow reference)
