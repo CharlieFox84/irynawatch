@@ -36,7 +36,21 @@ The toggle interface allows users to reveal procedural depth without overwhelmin
 
 ---
 
+## 🧠 Contribution Workflow
+
+We use a principled pull request process to preserve editorial restraint and technical clarity.
+
+- All changes are made in the `dev` branch and tested via GitHub Pages.
+- Once ready, a [pull request](https://github.com/CharlieFox84/irynawatch/compare/main...dev) is opened from `dev` to `main`.
+- Merging triggers Netlify auto-deploy to [irynawatch.netlify.app](https://irynawatch.netlify.app/).
+
+📄 See our [Pull Request Template](.github/PULL_REQUEST_TEMPLATE.md)
+
+---
+
 ## 🧪 Testing Before PR
 
 Before submitting a pull request to `main`, please follow the steps in [`TESTING.md`](./TESTING.md).
+
+
 

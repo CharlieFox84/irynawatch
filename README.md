@@ -9,4 +9,8 @@ This branch serves as the **Netlify deployment source** for the Iryna Watch time
 
 ## 🔄 Change Log
 
-For update history and editorial logic, see `README-dev.md` in the `dev` branch.
+## 🧠 Contributor Workflow
+
+For the most up-to-date workflow and editorial notes, see see `README-dev.md` in the `dev` branch.
+
+
