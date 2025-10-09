@@ -14,302 +14,11 @@
     <meta name="twitter:description" content="A public-interest timeline documenting the Zarutska case.">
     <meta name="twitter:image" content="https://irynawatch.netlify.app/preview.png">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 6daa3dc (fixed favicon links)
-=======
->>>>>>> 6daa3dc (fixed favicon links)
     <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
     <link rel="manifest" href="site.webmanifest">
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
     <link rel="stylesheet" href="style.css">
-=======
-=======
->>>>>>> 8b68e06 (Refine timeline filters and header structure; retag procedural motions; update favicon)
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-<<<<<<< HEAD
-=======
->>>>>>> 6daa3dc (fixed favicon links)
-=======
->>>>>>> 8b68e06 (Refine timeline filters and header structure; retag procedural motions; update favicon)
-=======
->>>>>>> 6daa3dc (fixed favicon links)
-    
-    <style>
-      :root {
-        --nav-height: 3em;
-      }
-
-      /* Header styles */
-      header.page-header {
-        text-align: center;
-        margin-bottom: 2rem;
-      }
-      .page-title {
-        font-size: 2rem;
-        margin-bottom: 0.5rem;
-      }
-      .memorial-img {
-        max-width: 280px;
-        border-radius: 8px;
-        margin-bottom: 1rem;
-      }
-      .header-desc {
-        font-size: 0.9rem;
-        color: #666;
-        max-width: 600px;
-        margin: 0.5rem auto;
-      }
-      /* Timeline card details */
-      .timeline-card .details {
-        font-size: 0.9rem;
-        color: #666;
-      }
-      .timeline-card .img-doc {
-        max-width: 100%;
-        border-radius: 8px;
-        margin-top: 1rem;
-        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-      }
-      .timeline-card .eval-conditions {
-        font-size: 1rem;
-        margin-top: 1rem;
-        color: #333;
-      }
-      .timeline-card .eval-list {
-        font-size: 0.95rem;
-        color: #444;
-        margin-top: 0.5rem;
-      }
-      .timeline-card .eval-source {
-        font-size: 0.85rem;
-        color: #666;
-        margin-top: 0.5rem;
-      }
-      .timeline-card .source-links {
-        font-size: 0.9rem;
-        color: #666;
-      }
-      .timeline-card .community-links {
-        font-size: 0.9rem;
-        color: #666;
-      }
-      /* Footer styles */
-      footer.site-footer {
-        text-align: center;
-        font-size: 0.9rem;
-        color: #666;
-        margin-top: 3rem;
-      }
-      .court-link {
-        color: #666;
-        text-decoration: underline;
-      }
-      .timeline-hr {
-        border: none;
-        border-top: 1px solid #ddd;
-        margin: 1.5rem 0;
-      }
-      body {
-        font-family: Georgia, serif;
-        background: #f9f9f9;
-        margin: 0;
-        padding: 1rem;
-        color: #333;
-      }
-      header {
-        text-align: center;
-        padding: 1rem 0;
-      }
-      h1 {
-        margin-bottom: 0.5rem;
-      }
-      .timeline {
-        max-width: 700px;
-        margin: 0 auto;
-      }
-      .group-header {
-        border-left: 6px solid #444;
-        padding-left: 1rem;
-        margin-top: 3rem;
-        margin-bottom: 1rem;
-        font-size: 1.2rem;
-        font-weight: bold;
-        color: #222;
-      }
-      /* Improve contrast for small/em text */
-      .timeline-card small em,
-      footer {
-        color: #444;
-      }
-      .timeline-card {
-        background: #fff;
-        border-left: 4px solid #888;
-        margin: 1rem 0;
-        padding: 1rem 1.5rem;
-        box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-      }
-      .timeline-card h2 {
-        margin-top: 0;
-        font-size: 1.1rem;
-        color: #222;
-      }
-      .timeline-card p {
-        margin-bottom: 0;
-        line-height: 1.6;
-      }
-      .timeline-card small em {
-        display: block;
-        margin-top: 1em;
-        font-size: 0.9em;
-        color: #555;
-      }
-      /* Container styling */
-      .timeline-nav {
-        background: #f9f9f9;
-        padding: 0.5em 1em;
-        border-bottom: 1px solid #ddd;
-        text-align: center;       /* Centers the nav list */
-        position: sticky;         /* Optional: keeps it visible on scroll */
-        top: 0;
-        z-index: 1000;
-      }
-      /* Horizontal list layout */
-      .timeline-nav ul {
-        display: inline-flex;     /* Makes the list behave like inline content */
-        gap: 1em;
-        margin: 0;
-        padding: 0;
-        list-style: none;
-      }
-      /* Individual link styling */
-      .timeline-nav a {
-        display: inline-block;         /* Ensures background wraps cleanly */
-        text-decoration: none;
-        color: #333;
-        font-weight: bold;
-        padding: 0.5em 0.75em;
-        border-radius: 4px;
-        transition: background 0.2s ease;
-        white-space: nowrap;          /* Prevents word wrapping */
-      }
-      /* Hover effect */
-      .timeline-nav a:hover {
-        background: #f0f0f0;
-      }
-      @media (max-width: 480px) {
-        .timeline-nav a {
-          white-space: normal;
-          word-break: break-word;
-          text-align: center;
-        }
-      }
-
-      .timeline-hot-topic {
-        background: #fff8e1;
-        border-bottom: 1px solid #ddd;
-        padding: 0.75rem 1rem;
-        text-align: center;
-        font-weight: bold;
-      }
-
-      .hot-topic-link {
-        color: #c62828;
-        text-decoration: none;
-      }
-      .hot-topic-link:hover {
-        text-decoration: underline;
-}
-
-      .last-updated {
-        font-size: 0.9rem;
-        font-style: italic;
-        color: #444;
-        background-color: #f0f0f0;
-        padding: 0.3rem 0.6rem;
-        border-radius: 4px;
-        display: inline-block;
-        margin-bottom: 1rem;
-      }
-
-      section.timeline-card[data-tag="procedural-motion"] {
-        display: none;
-      }
-
-      .filter-container {
-        position: sticky;
-        display: flex;
-        justify-content: center;
-        top: var(--nav-height); /* adjust based on nav height */
-        background: #fff;
-        border-bottom: 1px solid #ddd;
-        background-color: #f9f9f9;
-        z-index: 10;
-        padding: 0.5em;
-      }
-
-      .toggle-label {
-        display: flex;
-        align-items: center;
-        gap: 0.5em;
-        font-size: 1rem;
-        cursor: pointer;
-      }
-
-      .toggle-text {
-        line-height: 1;
-      }
-
-      input[type="checkbox"] {
-        appearance: none;
-        width: 40px;
-        height: 20px;
-        background: #ccc;
-        border-radius: 10px;
-        position: relative;
-        outline: none;
-        cursor: pointer;
-      }
-
-      input[type="checkbox"]:checked {
-        background: #0077cc;
-      }
-
-      input[type="checkbox"]::before {
-        content: '';
-        position: absolute;
-        top: 2px;
-        left: 2px;
-        width: 16px;
-        height: 16px;
-        background: white;
-        border-radius: 50%;
-        transition: 0.2s;
-      }
-
-      input[type="checkbox"]:checked::before {
-        left: 22px;
-      }
-
-    </style>
->>>>>>> 8b68e06 (Refine timeline filters and header structure; retag procedural motions; update favicon)
-=======
-    <link rel="stylesheet" href="style.css">
->>>>>>> b17a321 (Sperated CSS into its own file)
-=======
-    <link rel="stylesheet" href="style.css">
->>>>>>> b17a321 (Sperated CSS into its own file)
   </head>
 
   <body>
@@ -319,62 +28,12 @@
       <p class="header-desc">
         All entries are drawn from publicly available court records and verified news sources. This timeline is presented with editorial restraint and deep respect for the victim's family.
       </p>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
       <p class="last-updated">Last updated: Oct 4, 2025</p>
-=======
-      <p class="last-updated">Last updated: Oct 3, 2025</p>
->>>>>>> 3529821 (fixed date issues with last update and hot topic date)
-=======
-      <p class="last-updated">Last updated: Oct 4, 2025</p>
->>>>>>> 8d66f76 (Updated medical records motion with latest updates)
-=======
-      <p class="last-updated">Last updated: Oct 3, 2025</p>
->>>>>>> 3529821 (fixed date issues with last update and hot topic date)
-=======
-      <p class="last-updated">Last updated: Oct 4, 2025</p>
->>>>>>> 8d66f76 (Updated medical records motion with latest updates)
       <p class="hot-topic">
       📜 <strong>Iryna's Law signed into law on Oct 3, 2025.</strong>
       <a href="#nc-house-bill-307" class="hot-topic-link">View timeline entry</a>
       </p>
 
-=======
-      <p class="last-updated">
-        Last updated: <span id="last-updated">Oct 2, 2025</span>
-      </p>
->>>>>>> 8b68e06 (Refine timeline filters and header structure; retag procedural motions; update favicon)
-=======
-      <p class="last-updated">Last updated: Oct 2, 2025</p>
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 798820a (removed scri[t to update date. It did not work as intended.)
-=======
-=======
->>>>>>> 6d17598 (Highlight NC House Bill 307 signing with scroll emoji and CSS banner)
-      <p class="hot-topic">
-      📜 <strong>Iryna's Law signed into law on Oct 3, 2025.</strong>
-      <a href="#nc-house-bill-307" class="hot-topic-link">View timeline entry</a>
-      </p>
-
-<<<<<<< HEAD
->>>>>>> 6d17598 (Highlight NC House Bill 307 signing with scroll emoji and CSS banner)
-=======
-      <p class="last-updated">
-        Last updated: <span id="last-updated">Oct 2, 2025</span>
-      </p>
->>>>>>> 8b68e06 (Refine timeline filters and header structure; retag procedural motions; update favicon)
-=======
-      <p class="last-updated">Last updated: Oct 2, 2025</p>
->>>>>>> 798820a (removed scri[t to update date. It did not work as intended.)
-=======
->>>>>>> 6d17598 (Highlight NC House Bill 307 signing with scroll emoji and CSS banner)
     </header>
 
     <nav class="timeline-nav">
@@ -491,22 +150,7 @@
   </section>
 
       <section class="timeline-card" data-tag="procedural-motion">
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
         <h3>Sep 29 - Oct 3, 2025 - Motion and Amended Order to Compel Medical Records</h3>
-=======
-=======
->>>>>>> 8b68e06 (Refine timeline filters and header structure; retag procedural motions; update favicon)
-        <h3>Sep 29 - Oct 1, 2025 - Motion and Amended Order to Compel Medical Records</h3>
->>>>>>> 8b68e06 (Refine timeline filters and header structure; retag procedural motions; update favicon)
-=======
-        <h3>Sep 29 - Oct 3, 2025 - Motion and Amended Order to Compel Medical Records</h3>
->>>>>>> 8d66f76 (Updated medical records motion with latest updates)
-=======
-        <h3>Sep 29 - Oct 3, 2025 - Motion and Amended Order to Compel Medical Records</h3>
->>>>>>> 8d66f76 (Updated medical records motion with latest updates)
         <p>Defense counsel filed a motion to compel disclosure of medical records relevant to the defendant, citing evidentiary relevance for pre-trial preparation. On October 1, the court issued an amended order refining the request: limiting the date range to January 1 - August 31, 2025, reinforcing HIPAA compliance, and prohibiting public disclosure without further court approval.</p>
         <small><em>This motion is procedural and does not imply any specific condition or outcome. Medical record requests are common in cases where health history may inform legal arguments. A defense objection to the amended order was filed on October 3, 2025; no ruling has been issued</em></small>
   </section>
@@ -549,26 +193,8 @@
         <small><em>Sources: WSOC-TV Charlotte, Charlotte Observer, WCNC News</em></small>
   </section>
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
       <section class="timeline-card" data-tag="community" id="nc-house-bill-307">
         <h3>📜 Sep 22, 2025 - NC House Bill 307: "Iryna's Law"</h3>
-=======
-=======
->>>>>>> 8b68e06 (Refine timeline filters and header structure; retag procedural motions; update favicon)
-      <section class="timeline-card" data-tag="community">
-        <h3>Sep 22, 2025 - NC House Bill 307: "Iryna's Law"</h3>
->>>>>>> 8b68e06 (Refine timeline filters and header structure; retag procedural motions; update favicon)
-=======
-      <section class="timeline-card" data-tag="community" id="nc-house-bill-307">
-        <h3>📜 Sep 22, 2025 - NC House Bill 307: "Iryna's Law"</h3>
->>>>>>> 6d17598 (Highlight NC House Bill 307 signing with scroll emoji and CSS banner)
-=======
-      <section class="timeline-card" data-tag="community" id="nc-house-bill-307">
-        <h3>📜 Sep 22, 2025 - NC House Bill 307: "Iryna's Law"</h3>
->>>>>>> 6d17598 (Highlight NC House Bill 307 signing with scroll emoji and CSS banner)
         <ul>
           <li>Stricter pretrial release rules for violent offenders and repeat defendants, responding to public concern over cashless bail practices.</li>
           <li>New procedures for mental health evaluations and involuntary commitment tied to pretrial decisions.</li>
@@ -593,57 +219,8 @@
         View official court records via the North Carolina Judicial Branch eCourts Portal
       </a>
     </footer>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
   
     <script src="script.js"></script>
   
-=======
-=======
->>>>>>> 8b68e06 (Refine timeline filters and header structure; retag procedural motions; update favicon)
-    <script>
-      // Toggle visibility of motion-related timeline cards
-      document.getElementById('show-motions').addEventListener('change', function () {
-        const showProcedural = this.checked;
-        document.querySelectorAll('section.timeline-card[data-tag="procedural-motion"]').forEach(card => {
-          card.style.display = showProcedural ? 'block' : 'none';
-        });
-      });
-    </script>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 8b68e06 (Refine timeline filters and header structure; retag procedural motions; update favicon)
-
-    <script>
-      const fallback = document.getElementById('last-updated').textContent.trim();
-      const today = new Date().toLocaleDateString(undefined, { year: 'numeric', month: 'short', day: 'numeric' });
-
-      if (!fallback.includes(today)) {
-        document.getElementById('last-updated').textContent = today;
-      }
-    </script>
-
-<<<<<<< HEAD
->>>>>>> 8b68e06 (Refine timeline filters and header structure; retag procedural motions; update favicon)
-=======
->>>>>>> 798820a (removed scri[t to update date. It did not work as intended.)
-=======
-  
-    <script src="script.js"></script>
-  
->>>>>>> 2752aef (Sperated script into its own file)
-=======
->>>>>>> 8b68e06 (Refine timeline filters and header structure; retag procedural motions; update favicon)
-=======
->>>>>>> 798820a (removed scri[t to update date. It did not work as intended.)
-=======
-  
-    <script src="script.js"></script>
-  
->>>>>>> 2752aef (Sperated script into its own file)
   </body>
 </html>
