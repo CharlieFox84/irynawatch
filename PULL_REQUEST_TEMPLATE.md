@@ -24,7 +24,11 @@ Brief description of the changes introduced in this PR. Include context, intent,
 - Procedural cards and hidden tags allow for quiet iteration.
 
 ### Merge to Production (`main`)
+<<<<<<< HEAD
 - Once tested, a pull request is opened from `dev` to `main`, documenting the changes.
+=======
+- Once tested, a pull request is opened from `dev` to `main`, documenting the changes and preserving editorial restraint.
+>>>>>>> f5412c5 (Add PR template and contributor workflow reference)
 - The PR is reviewed and merged with a clean commit history.
 - GitHub syncs the updated `main` branch.
 

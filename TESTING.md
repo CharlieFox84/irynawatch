@@ -33,11 +33,16 @@ Before submitting a pull request from `dev` to `main`, verify the following:
 
 3. **Merge to Production (`main`)**
 <<<<<<< HEAD
+<<<<<<< HEAD
    - Once tested, a pull request is opened from dev to main, documenting the changes.
    - The PR is reviewed and merged with a clean commit history.
 =======
    - Once tested, `dev` is merged into `main` with a clean commit history.
 >>>>>>> 83a7652 (updated TESTING steps with CICD pipeline steps)
+=======
+   - Once tested, a pull request is opened from dev to main, documenting the changes.
+   - The PR is reviewed and merged with a clean commit history.
+>>>>>>> f5412c5 (Add PR template and contributor workflow reference)
    - GitHub syncs the updated `main` branch.
 
 4. **Netlify Auto-Deploy**

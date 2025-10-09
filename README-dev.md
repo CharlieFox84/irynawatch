@@ -51,12 +51,16 @@ The toggle interface allows users to reveal procedural depth without overwhelmin
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## 🧠 Contribution Workflow
 =======
 ## 🧪 Testing Before PR
 
 Before submitting a pull request to `main`, please follow the steps in [`TESTING.md`](./TESTING.md).
 >>>>>>> e46c594 (Add TESTING.md for pre-PR checklist; link from README-dev.md)
+=======
+## 🧠 Contribution Workflow
+>>>>>>> f5412c5 (Add PR template and contributor workflow reference)
 
 We use a principled pull request process to preserve editorial restraint and technical clarity.
 
@@ -64,7 +68,11 @@ We use a principled pull request process to preserve editorial restraint and tec
 - Once ready, a [pull request](https://github.com/CharlieFox84/irynawatch/compare/main...dev) is opened from `dev` to `main`.
 - Merging triggers Netlify auto-deploy to [irynawatch.netlify.app](https://irynawatch.netlify.app/).
 
+<<<<<<< HEAD
 📄 See our [Pull Request Template](./PULL_REQUEST_TEMPLATE.md)
+=======
+📄 See our [Pull Request Template](.github/PULL_REQUEST_TEMPLATE.md)
+>>>>>>> f5412c5 (Add PR template and contributor workflow reference)
 
 ---
 
@@ -74,6 +82,7 @@ Before submitting a pull request to `main`, please follow the steps in [`TESTING
 
 
 
+<<<<<<< HEAD
 =======
 ## In Progress
 - Procedural filter toggle
@@ -87,3 +96,5 @@ Before submitting a pull request to `main`, please follow the steps in [`TESTING
 =======
 
 >>>>>>> 92590b1 (Updated README-dev.md)
+=======
+>>>>>>> f5412c5 (Add PR template and contributor workflow reference)
