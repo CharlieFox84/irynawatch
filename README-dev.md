@@ -69,10 +69,14 @@ We use a principled pull request process to preserve editorial restraint and tec
 - Merging triggers Netlify auto-deploy to [irynawatch.netlify.app](https://irynawatch.netlify.app/).
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 📄 See our [Pull Request Template](./PULL_REQUEST_TEMPLATE.md)
 =======
 📄 See our [Pull Request Template](.github/PULL_REQUEST_TEMPLATE.md)
 >>>>>>> f5412c5 (Add PR template and contributor workflow reference)
+=======
+📄 See our [Pull Request Template](./PULL_REQUEST_TEMPLATE.md)
+>>>>>>> 680bdc1 (Update README-dev.md)
 
 ---
 
